@@ -1,0 +1,16 @@
+#markdown: rdiscount
+permalink: /:title/
+url: http://shuihuo379.github.io
+#highlighter: pygments
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 100
+paginate_path: "page:num"
+name: 张明的博客
+description: zhangming | where there is a will,there is a way
+author: zhangming
+email: zhangming.itheima@gmail.com
+weibo: 5055894041
+duoshuo: zhangming
+hub: zhangming
+safe: false
