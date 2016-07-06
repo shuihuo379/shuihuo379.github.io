@@ -1,6 +1,6 @@
 #markdown: rdiscount
 permalink: /:title/
-url: http://shuihuo379.github.io
+url: https://shuihuo379.github.io
 #highlighter: pygments
 highlighter: rouge
 gems: [jekyll-paginate]
@@ -10,7 +10,7 @@ name: 张明的博客
 description: zhangming | where there is a will,there is a way
 author: zhangming
 email: zhangming.itheima@gmail.com
-weibo: 5055894041
+weibo: 3311501837
 duoshuo: zhangming
 hub: zhangming
 safe: false
