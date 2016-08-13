@@ -5,21 +5,17 @@ comments: no
 ---
 
 ## 张鸣谦
-**Phone：**　15972219148(湖北武汉)　　　 **Email：**　[zhangming.itheima@gmail.com](zhangming.itheima@gmail.com')
-
+**Address：** 湖北武汉硚口区 &nbsp;&nbsp;&nbsp;**Birthday：** 1993-10-9<br/>
+**Phone：**　15972219148　　
+**Email：**　[zhangming.itheima@gmail.com](zhangming.itheima@gmail.com')
 **GitHub：**　[github.com/shuihuo379](https://github.com/shuihuo379)　　　　   **Blog：**　[shuihuo379.github.io](http://shuihuo379.github.io)
-
-## 教育经历
-2012/09 -- 2016/06<br/> 
-山西大同大学 | 计算机科学与技术 | 本科
-
 
 ## 工作经历  
 2015/08—2016/04<br/>
-武汉天喻通讯技术有限公司 || Android开发工程师
+武汉天喻通迅技术有限公司 || Android研发工程师
 
 ## 专业技能
-1. 有扎实的Java基础，熟练掌握面向对象编程思想,并且具有良好的编程习惯；
+1. 有扎实的UnixC编程和Java基础，熟悉常用的数据结构和算法
 2. 熟练掌握Android四大组件、常用UI控件、自定义view的使用；
 3. 熟练掌握Android常用布局的使用、UI美化及屏幕适配问题；
 4. 熟练掌握Activity、fragment的生命周期；
@@ -44,7 +40,7 @@ comments: no
 
 
 ### 自我评价
-本人有较好的团队合作意识和沟通组织能力,喜欢独立思考问题,有良好的编程经验及编程习惯,抗压能力强。
+本人有较好的团队合作意识和沟通组织能力,喜欢独立思考问题,有良好的编程经验及编程习惯
 
 
 
